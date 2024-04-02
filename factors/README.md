@@ -9,7 +9,7 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 	- The file will always end with a new line
 - Output format:`n=p*q`
 	- one factorization per line
-	- `p` and `q` donâ€™t have to be prime numbers
+	- `p` and `q` don't have to be prime numbers
 	- See example below
 - You can work on the numbers of the file in the order of your choice
 - Your program should run without any dependency: You will not be able to install anything on the machine we will run your program on
