@@ -1,7 +1,7 @@
 # 0. Factorize all the things!
 
 Factorize as many numbers as possible into a product of two smaller numbers.
-- Usage: `factors <file>
+- Usage: `factors <file>`
 	- where <file> is a file containing natural numbers to factor.
 	- One number per line
 	- You can assume that all lines will be valid natural numbers greater than 1
@@ -9,12 +9,12 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 	- The file will always end with a new line
 - Output format:`n=p*q`
 	- one factorization per line
-	- `p` and `q` don’t have to be prime numbers
+	- `p` and `q` donâ€™t have to be prime numbers
 	- See example below
 - You can work on the numbers of the file in the order of your choice
 - Your program should run without any dependency: You will not be able to install anything on the machine we will run your program on
 - Time limit: Your program will be killed after 5 seconds if it hasn'tt finish
-- Push all your scripts, source code, etc..� to your repositor
+- Push all your scripts, source code, etc..¦ to your repositor
 	- we will only run your executable `factors`
 
 Example:
